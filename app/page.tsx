@@ -22,7 +22,7 @@ export default function Page() {
       .catch(error => console.error(error));
   }, []);
 
-  function sortByFields(e, order='DESC', field1, field2) {
+  function sortByFields(e, order='DESC', field1: string, field2: string) {
     e.preventDefault();
 
     let dataToSort = [...data];
@@ -45,24 +45,32 @@ export default function Page() {
               src={offer.merchant.logo_url}
               alt={offer.merchant.name}
               width={100}
+              style={{
+                maxHeight: "50px",
+                maxWidth: "100%",
+                margin: "auto",
+              }}
             />
           </a>
         </p>
-        <p>At <a href={offer.merchant.url} target="blank">{offer.merchant.name}</a></p>
       </td>
       <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
         <a href={offer.offer.link} target='blank' className="float-left mr-2">{offer.offer.name}</a>
         <a href={offer.offer.link} target='blank' className="float-left"><img src="link.png" style={{width: "1em"}} /></a>
       </th>
-      <td className="px-6 py-4">
+      <td className="px-6 py-4 text-center">
         <p>{offer.offer.price} {offer.offer.currency_iso}</p>
       </td>
-      <td className="px-6 py-4">
+      <td className="px-6 py-4 text-center">
       <a href={offer.offer.link} target='blank'>
           <img
             src={offer.model_image}
             alt={offer.offer.name}
             width={200}
+            style={{
+              maxWidth: "100%",
+              margin: "auto",
+            }}
           />
         </a>
       </td>
@@ -74,26 +82,38 @@ export default function Page() {
       <table className="w-full text-sm text-left rtl:text-right text-gray-500 dark:text-gray-400">
           <thead className="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
               <tr>
-                  <th scope="col" className="px-6 py-3">
-                      <p>Merchant</p>
-                      <a onClick={e => sortByFields(e, 'ASC', 'merchant', 'name')}
-                        className="mr-2">ASC</a>
-                      <a onClick={e => sortByFields(e, 'DESC', 'merchant', 'name')}>DESC</a>
+                  <th scope="col" className="px-6 py-3 text-center">
+                      <p className=" text-lg">
+                        <b className="mr-2">Merchant</b>
+                      <a 
+                        onClick={e => sortByFields(e, 'DESC', 'merchant', 'name')}
+                        className="mr-2"
+                      >&dArr;</a>
+                      <a onClick={e => sortByFields(e, 'ASC', 'merchant', 'name')}>&uArr;</a>
+                      </p>
                   </th>
-                  <th scope="col" className="px-6 py-3">
-                      <p>Product</p>
-                      <a onClick={e => sortByFields(e, 'ASC', 'offer', 'name')}
-                        className="mr-2">ASC</a>
-                      <a onClick={e => sortByFields(e, 'DESC', 'offer', 'name')}>DESC</a>
+                  <th scope="col" className="px-6 py-3 text-center">
+                    <p className=" text-lg">
+                      <b className="mr-2">Product</b>
+                      <a 
+                        onClick={e => sortByFields(e, 'DESC', 'offer', 'name')}
+                        className="mr-2"
+                      >&dArr;</a>
+                      <a onClick={e => sortByFields(e, 'ASC', 'offer', 'name')}>&uArr;</a>
+                    </p>
                   </th>
-                  <th scope="col" className="px-6 py-3">
-                      <p>Price</p>
-                      <a onClick={e => sortByFields(e, 'ASC', 'offer', 'price')}
-                        className="mr-2">ASC</a>
-                      <a onClick={e => sortByFields(e, 'DESC', 'offer', 'price')}>DESC</a>
+                  <th scope="col" className="px-6 py-3 text-center">
+                    <p className=" text-lg">
+                      <b className="mr-2">Price</b>
+                      <a 
+                        onClick={e => sortByFields(e, 'DESC', 'offer', 'price')}
+                        className="mr-2"
+                      >&dArr;</a>
+                      <a onClick={e => sortByFields(e, 'ASC', 'offer', 'price')}>&uArr;</a>
+                    </p>
                   </th>
-                  <th scope="col" className="px-6 py-3">
-                      <p>Image</p>
+                  <th scope="col" className="px-6 py-3 text-center">
+                    <p className=" text-lg">Image</p>
                   </th>
               </tr>
           </thead>
