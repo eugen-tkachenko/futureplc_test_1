@@ -1,0 +1,658 @@
+{
+    "widget": {
+        "data": {
+            "model_info": {
+                "8129": {
+                    "id": 8129,
+                    "brand": "Apple",
+                    "model_name": "iPad Air",
+                    "requested_model": "iPad_Air",
+                    "model_image_url": "https:\/\/m.media-amazon.com\/images\/I\/41IwoKKq0rL._SL500_.jpg",
+                    "name": "Apple iPad Air",
+                    "verdict": "Want the best tablet on the market? Then get the iPad Air. It's got a stunning design, powerful innards and a superb suite of apps. It's as near to tablet perfection as you're going to get.",
+                    "retailer_verdict": null,
+                    "manufacturer_verdict": null,
+                    "pros": [
+                        "Sleek design",
+                        "Powerful innards",
+                        "Great suite of free apps"
+                    ],
+                    "cons": [
+                        "No TouchID",
+                        "Camera features lacking",
+                        "16GB version is too small"
+                    ],
+                    "score": 10,
+                    "review_link": "https:\/\/techradar.com\/reviews\/pc-mac\/tablets\/ipad-air-1191350\/review",
+                    "parents": [
+                        {
+                            "id": 1011303,
+                            "name": "iPads"
+                        },
+                        {
+                            "id": 288425,
+                            "name": "Tablets"
+                        },
+                        {
+                            "id": 1012040,
+                            "name": "Computers"
+                        },
+                        {
+                            "id": 286322,
+                            "name": "Computing"
+                        },
+                        {
+                            "id": 286325,
+                            "name": "Electronics"
+                        },
+                        {
+                            "id": 1,
+                            "name": "Everything"
+                        }
+                    ],
+                    "child_count": null,
+                    "reviews": {
+                        "asin": {
+                            "review_count": 900,
+                            "review_score": 4.6,
+                            "review_score_formatted": 9,
+                            "area": "FR",
+                            "code_name": "asin",
+                            "code_value": "B00G2Y4WNY",
+                            "reviews_url": "https:\/\/target.georiot.com\/Proxy.ashx?tsid=8428&GR_URL=https%3A%2F%2Fwww.amazon.fr%2Freviews%2FB00G2Y4WNY%3Ftag%3Dtech0c1e-21%26ascsubtag%3Dhawk-custom-tracking-21"
+                        }
+                    },
+                    "pull_quote": null
+                },
+                "1": {
+                    "id": 1,
+                    "brand": null,
+                    "model_name": "Everything",
+                    "requested_model": null,
+                    "model_image_url": "https:\/\/images.fie.futurecdn.net\/4wb8tuygm9kt7pr4-16427160582268.jpg",
+                    "name": "Everything",
+                    "verdict": null,
+                    "retailer_verdict": null,
+                    "manufacturer_verdict": null,
+                    "pros": [],
+                    "cons": [],
+                    "score": null,
+                    "review_link": null,
+                    "parents": [],
+                    "child_count": null,
+                    "reviews": [],
+                    "pull_quote": null
+                }
+            },
+            "title": "Apple iPad Air",
+            "last_update": 1756381011,
+            "counts": {
+                "broadband": 0,
+                "subscriptions": 0,
+                "contracts": 0,
+                "deals": 12,
+                "accessories": 0,
+                "fallback": 0,
+                "offers": 0,
+                "vouchers": 0,
+                "unique_codes": 0,
+                "offer_deals": 0,
+                "newsletter": 0,
+                "similar": 1,
+                "multimedia": 0,
+                "rewards": 0
+            },
+            "offers": [
+                {
+                    "id": 841806773,
+                    "match_id": 841806773,
+                    "product_key": "366607-sw25051485252108731",
+                    "score": 21922,
+                    "percentage": 81,
+                    "click_count": 0,
+                    "click_count_weekly": 0,
+                    "click_count_monthly": 0,
+                    "product_type": 1000,
+                    "bundle_models": [],
+                    "model_matched": [
+                        "Apple iPad Air"
+                    ],
+                    "requested_model": "iPad_Air",
+                    "model": "Apple iPad Air",
+                    "model_id": 8129,
+                    "an": "CJ",
+                    "offer": {
+                        "name": "Apple Pencil Touchpen met LED-stroomindicator voor iPad Pro en Air-modellen 2018-2025, oplaadbare 120mAh-batterij",
+                        "price": "5.33",
+                        "in_stock": true,
+                        "stock_quantity": null,
+                        "currency_iso": "EUR",
+                        "currency_symbol": "&#x20AC;",
+                        "link": "https:\/\/app.shein.com\/0\/goods-p-nl?cat_id=12749&goods_id=78944227&sid=hawk-custom-tracking",
+                        "link_text": "View",
+                        "merchant_link_text": "View at SHEIN",
+                        "label": "",
+                        "percentage_saving": null,
+                        "percentage_saving_label": null,
+                        "money_saving": null,
+                        "money_saving_label": null,
+                        "product_note": null,
+                        "audience": null,
+                        "display_name": "Apple iPad Air (LED)",
+                        "display_labels": "(LED)",
+                        "display_primary_label": "(LED)"
+                    },
+                    "image": "https:\/\/images.fie.futurecdn.net\/products\/92931dbe916c0fc8d5ac8b525b31e5697081fc14-100-80.jpg.webp",
+                    "label_image": null,
+                    "model_image": "https:\/\/m.media-amazon.com\/images\/I\/41IwoKKq0rL._SL500_.jpg",
+                    "shipping": {
+                        "prime": false,
+                        "url": null
+                    },
+                    "merchant": {
+                        "id": 482344,
+                        "name": "SHEIN",
+                        "url": "https:\/\/www.SHEIN.com",
+                        "logo_url": "https:\/\/images.fie.futurecdn.net\/c35js8aqzswbrxci-17213200568902-100-80.png.webp",
+                        "territory": "AE",
+                        "preference": 0
+                    },
+                    "last_update": 1756295337,
+                    "labels_formatted": [
+                        {
+                            "type": "brand",
+                            "value": "Apple",
+                            "display_value": "Apple",
+                            "display_order": 99,
+                            "priority": 0
+                        },
+                        {
+                            "type": "screen_type",
+                            "value": "LED",
+                            "display_value": "LED",
+                            "display_order": 8,
+                            "priority": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 839902336,
+                    "match_id": 839902336,
+                    "product_key": "70528-42144175859",
+                    "score": 24739,
+                    "percentage": 81,
+                    "click_count": 0,
+                    "click_count_weekly": 0,
+                    "click_count_monthly": 0,
+                    "product_type": 1000,
+                    "bundle_models": [],
+                    "model_matched": [
+                        "Apple iPad Air"
+                    ],
+                    "requested_model": "iPad_Air",
+                    "model": "Apple iPad Air",
+                    "model_id": 8129,
+                    "an": "AW",
+                    "offer": {
+                        "name": "\u00c9tui pour tablette pour Apple ipad Air 2 9.7 &quot en cuir PU intelligent sommeil r\u00e9veil funda support \u00e0 trois volets so*CL0899",
+                        "price": "15.95",
+                        "in_stock": true,
+                        "stock_quantity": null,
+                        "currency_iso": "EUR",
+                        "currency_symbol": "&#x20AC;",
+                        "link": "https:\/\/www.awin1.com\/pclick.php?clickref=hawk-custom-tracking&p=42144175859&a=103504&m=6948",
+                        "link_text": "View",
+                        "merchant_link_text": "View at Cdiscount FR",
+                        "label": "",
+                        "percentage_saving": null,
+                        "percentage_saving_label": null,
+                        "money_saving": null,
+                        "money_saving_label": null,
+                        "product_note": null,
+                        "audience": null,
+                        "display_name": "Apple iPad Air",
+                        "display_labels": "",
+                        "display_primary_label": ""
+                    },
+                    "image": "https:\/\/images.fie.futurecdn.net\/products\/190798b7c169363ef43a6f75c3d99f78548f202e-100-80.jpg.webp",
+                    "label_image": null,
+                    "model_image": "https:\/\/m.media-amazon.com\/images\/I\/41IwoKKq0rL._SL500_.jpg",
+                    "shipping": {
+                        "prime": false,
+                        "url": null
+                    },
+                    "merchant": {
+                        "id": 13412,
+                        "name": "Cdiscount FR",
+                        "url": "http:\/\/www.cdiscount.com\/",
+                        "logo_url": "https:\/\/images.fie.futurecdn.net\/logos\/merchants\/xuskpidsncyf47o3-15647605733962-100-80.jpg.webp",
+                        "territory": "FR",
+                        "preference": 0
+                    },
+                    "last_update": 1755978852,
+                    "labels_formatted": [
+                        {
+                            "type": "brand",
+                            "value": "Apple",
+                            "display_value": "Apple",
+                            "display_order": 99,
+                            "priority": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 583232731,
+                    "match_id": 583232731,
+                    "product_key": "153407-38383319545",
+                    "score": 22501,
+                    "percentage": 99,
+                    "click_count": 0,
+                    "click_count_weekly": 0,
+                    "click_count_monthly": 0,
+                    "product_type": 1000,
+                    "bundle_models": [],
+                    "model_matched": [
+                        "Apple iPad Air"
+                    ],
+                    "requested_model": "iPad_Air",
+                    "model": "Apple iPad Air",
+                    "model_id": 8129,
+                    "an": "AW",
+                    "offer": {
+                        "name": "IPAD AIR 32 GO WI-FI GRIS SIDERAL",
+                        "price": "69.00",
+                        "in_stock": true,
+                        "stock_quantity": null,
+                        "currency_iso": "EUR",
+                        "currency_symbol": "&#x20AC;",
+                        "link": "https:\/\/www.awin1.com\/pclick.php?p=38383319545&a=103504&m=7735",
+                        "link_text": "View",
+                        "merchant_link_text": "View at Darty FR",
+                        "label": "",
+                        "percentage_saving": null,
+                        "percentage_saving_label": null,
+                        "money_saving": null,
+                        "money_saving_label": null,
+                        "product_note": null,
+                        "audience": null,
+                        "display_name": "Apple iPad Air",
+                        "display_labels": "",
+                        "display_primary_label": ""
+                    },
+                    "image": "https:\/\/images.fie.futurecdn.net\/products\/f741a6340893a67b692cbb5e298f6cd9dc07ba88-100-80.jpg.webp",
+                    "label_image": "https:\/\/images.fie.futurecdn.net\/wjjpipobvp8hhsrn-16681795241286.jpg",
+                    "model_image": "https:\/\/m.media-amazon.com\/images\/I\/41IwoKKq0rL._SL500_.jpg",
+                    "shipping": {
+                        "prime": false,
+                        "url": null
+                    },
+                    "merchant": {
+                        "id": 10973,
+                        "name": "Darty FR",
+                        "url": "http:\/\/www.darty.com",
+                        "logo_url": "https:\/\/images.fie.futurecdn.net\/logos\/merchants\/8j1zpgkugazrg8r8-16171986808142-100-80.png.webp",
+                        "territory": "FR",
+                        "preference": 0
+                    },
+                    "last_update": 1756112273,
+                    "labels_formatted": [
+                        {
+                            "type": "brand",
+                            "value": "Apple",
+                            "display_value": "Apple",
+                            "display_order": 99,
+                            "priority": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 108865606,
+                    "match_id": 108865606,
+                    "product_key": "69789-591052227",
+                    "score": 10000,
+                    "percentage": 100,
+                    "click_count": 0,
+                    "click_count_weekly": 0,
+                    "click_count_monthly": 0,
+                    "product_type": 200,
+                    "bundle_models": [],
+                    "model_matched": [
+                        "Apple iPad Air"
+                    ],
+                    "requested_model": "iPad_Air",
+                    "model": "Everything",
+                    "model_id": 1,
+                    "an": "Amazonuk",
+                    "offer": {
+                        "name": "Amazon France View Similar",
+                        "price": "0.00",
+                        "in_stock": true,
+                        "stock_quantity": null,
+                        "currency_iso": "EUR",
+                        "currency_symbol": "&#x20AC;",
+                        "link": "https:\/\/target.georiot.com\/Proxy.ashx?tsid=8428&GR_URL=https%3A%2F%2Fwww.amazon.fr%2Fs%2Fref%3Dnb_sb_noss%3Ffield-keywords%3DApple+iPad+Air%26tag%3Dtech0c1e-21%26ascsubtag%3Dhawk-custom-tracking-21",
+                        "link_text": "Check Amazon",
+                        "merchant_link_text": "Check Amazon",
+                        "label": "No price information",
+                        "percentage_saving": null,
+                        "percentage_saving_label": null,
+                        "money_saving": null,
+                        "money_saving_label": null,
+                        "product_note": null,
+                        "audience": null,
+                        "display_name": "Everything",
+                        "display_labels": "",
+                        "display_primary_label": ""
+                    },
+                    "image": null,
+                    "label_image": null,
+                    "model_image": "https:\/\/m.media-amazon.com\/images\/I\/41IwoKKq0rL._SL500_.jpg",
+                    "shipping": {
+                        "prime": false,
+                        "url": null
+                    },
+                    "merchant": {
+                        "id": 1804,
+                        "name": "Amazon",
+                        "url": "http:\/\/www.amazon.fr\/",
+                        "logo_url": "https:\/\/images.fie.futurecdn.net\/logos\/merchants\/amazon-france-14606328308278-100-80.png.webp",
+                        "territory": "FR",
+                        "preference": 0
+                    },
+                    "last_update": 1756194778
+                }
+            ],
+            "offer_types": [
+                "deals",
+                "similar"
+            ],
+            "offer_type": "deals",
+            "event": null,
+            "sponsor": null,
+            "filters": [
+                {
+                    "category": "category",
+                    "type": "category",
+                    "title": "Category",
+                    "filter_key": "model_name",
+                    "multi_select": true,
+                    "priority": 200,
+                    "values": [
+                        {
+                            "value": "Apple iPad Air 16GB WiFi",
+                            "formatted_value": "Apple iPad Air 16GB WiFi",
+                            "count": 1,
+                            "image_url": null,
+                            "mobile_image_url": null,
+                            "tab_active": false,
+                            "description_heading": null,
+                            "description_value": null
+                        },
+                        {
+                            "value": "Apple iPad Air 64GB WiFi",
+                            "formatted_value": "Apple iPad Air 64GB WiFi",
+                            "count": 1,
+                            "image_url": null,
+                            "mobile_image_url": null,
+                            "tab_active": false,
+                            "description_heading": null,
+                            "description_value": null
+                        },
+                        {
+                            "value": "Apple iPad Air WiFi Cellular 16GB",
+                            "formatted_value": "Apple iPad Air WiFi Cellular 16GB",
+                            "count": 6,
+                            "image_url": null,
+                            "mobile_image_url": null,
+                            "tab_active": false,
+                            "description_heading": null,
+                            "description_value": null
+                        }
+                    ]
+                },
+                {
+                    "category": "merchant",
+                    "type": "merchant",
+                    "title": "Merchant",
+                    "filter_key": "filter_merchant_name",
+                    "multi_select": true,
+                    "priority": 50,
+                    "values": [
+                        {
+                            "value": "",
+                            "formatted_value": "Any Merchant",
+                            "count": 13,
+                            "image_url": null,
+                            "mobile_image_url": null,
+                            "tab_active": false,
+                            "description_heading": null,
+                            "description_value": null
+                        },
+                        {
+                            "value": "Amazon",
+                            "formatted_value": "Amazon",
+                            "count": 1,
+                            "image_url": null,
+                            "mobile_image_url": null,
+                            "tab_active": false,
+                            "description_heading": null,
+                            "description_value": null
+                        },
+                        {
+                            "value": "Cdiscount FR",
+                            "formatted_value": "Cdiscount FR",
+                            "count": 8,
+                            "image_url": null,
+                            "mobile_image_url": null,
+                            "tab_active": false,
+                            "description_heading": null,
+                            "description_value": null
+                        },
+                        {
+                            "value": "Darty FR",
+                            "formatted_value": "Darty FR",
+                            "count": 2,
+                            "image_url": null,
+                            "mobile_image_url": null,
+                            "tab_active": false,
+                            "description_heading": null,
+                            "description_value": null
+                        },
+                        {
+                            "value": "SHEIN",
+                            "formatted_value": "SHEIN",
+                            "count": 2,
+                            "image_url": null,
+                            "mobile_image_url": null,
+                            "tab_active": false,
+                            "description_heading": null,
+                            "description_value": null
+                        }
+                    ]
+                },
+                {
+                    "category": "price",
+                    "type": "upfront_cost",
+                    "title": "Price",
+                    "filter_key": "filter_upfront",
+                    "multi_select": false,
+                    "priority": 3,
+                    "values": [
+                        {
+                            "value": 50,
+                            "formatted_value": "Up to 50 \u20ac",
+                            "count": null,
+                            "image_url": null,
+                            "mobile_image_url": null,
+                            "tab_active": false,
+                            "description_heading": null,
+                            "description_value": null
+                        },
+                        {
+                            "value": 100,
+                            "formatted_value": "Up to 100 \u20ac",
+                            "count": null,
+                            "image_url": null,
+                            "mobile_image_url": null,
+                            "tab_active": false,
+                            "description_heading": null,
+                            "description_value": null
+                        },
+                        {
+                            "value": 150,
+                            "formatted_value": "Up to 150 \u20ac",
+                            "count": null,
+                            "image_url": null,
+                            "mobile_image_url": null,
+                            "tab_active": false,
+                            "description_heading": null,
+                            "description_value": null
+                        },
+                        {
+                            "value": 200,
+                            "formatted_value": "Up to 200 \u20ac",
+                            "count": null,
+                            "image_url": null,
+                            "mobile_image_url": null,
+                            "tab_active": false,
+                            "description_heading": null,
+                            "description_value": null
+                        },
+                        {
+                            "value": 250,
+                            "formatted_value": "Up to 250 \u20ac",
+                            "count": null,
+                            "image_url": null,
+                            "mobile_image_url": null,
+                            "tab_active": false,
+                            "description_heading": null,
+                            "description_value": null
+                        },
+                        {
+                            "value": 300,
+                            "formatted_value": "Up to 300 \u20ac",
+                            "count": null,
+                            "image_url": null,
+                            "mobile_image_url": null,
+                            "tab_active": false,
+                            "description_heading": null,
+                            "description_value": null
+                        },
+                        {
+                            "value": 350,
+                            "formatted_value": "Up to 350 \u20ac",
+                            "count": null,
+                            "image_url": null,
+                            "mobile_image_url": null,
+                            "tab_active": false,
+                            "description_heading": null,
+                            "description_value": null
+                        },
+                        {
+                            "value": 400,
+                            "formatted_value": "Up to 400 \u20ac",
+                            "count": null,
+                            "image_url": null,
+                            "mobile_image_url": null,
+                            "tab_active": false,
+                            "description_heading": null,
+                            "description_value": null
+                        },
+                        {
+                            "value": 500,
+                            "formatted_value": "Up to 500 \u20ac",
+                            "count": null,
+                            "image_url": null,
+                            "mobile_image_url": null,
+                            "tab_active": false,
+                            "description_heading": null,
+                            "description_value": null
+                        },
+                        {
+                            "value": 600,
+                            "formatted_value": "Up to 600 \u20ac",
+                            "count": null,
+                            "image_url": null,
+                            "mobile_image_url": null,
+                            "tab_active": false,
+                            "description_heading": null,
+                            "description_value": null
+                        },
+                        {
+                            "value": 700,
+                            "formatted_value": "Up to 700 \u20ac",
+                            "count": null,
+                            "image_url": null,
+                            "mobile_image_url": null,
+                            "tab_active": false,
+                            "description_heading": null,
+                            "description_value": null
+                        },
+                        {
+                            "value": "",
+                            "formatted_value": "Any Price",
+                            "count": null,
+                            "image_url": null,
+                            "mobile_image_url": null,
+                            "tab_active": false,
+                            "description_heading": null,
+                            "description_value": null
+                        }
+                    ]
+                },
+                {
+                    "category": "label",
+                    "type": "label_text_condition",
+                    "title": "Condition",
+                    "filter_key": "filter_label[text_condition]",
+                    "multi_select": true,
+                    "priority": 0,
+                    "values": [
+                        {
+                            "value": "",
+                            "formatted_value": "Any Condition",
+                            "count": 84,
+                            "image_url": null,
+                            "mobile_image_url": null,
+                            "tab_active": false,
+                            "description_heading": null,
+                            "description_value": null
+                        },
+                        {
+                            "value": "new",
+                            "formatted_value": "New",
+                            "count": 10,
+                            "image_url": null,
+                            "mobile_image_url": null,
+                            "tab_active": false,
+                            "description_heading": null,
+                            "description_value": null
+                        },
+                        {
+                            "value": "refurbished",
+                            "formatted_value": "Refurbished",
+                            "count": 74,
+                            "image_url": null,
+                            "mobile_image_url": null,
+                            "tab_active": false,
+                            "description_heading": null,
+                            "description_value": null
+                        }
+                    ]
+                }
+            ],
+            "pagination": {
+                "limit": 3,
+                "limit_contracts": 3,
+                "limit_deals": 4,
+                "offset": null
+            }
+        }
+    },
+    "models": {
+        "ipad_air": 8129
+    },
+    "area": "FR",
+    "battle": null,
+    "version": "master"
+}
