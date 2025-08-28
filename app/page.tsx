@@ -64,7 +64,7 @@ export default function Page() {
       <td className="px-6 py-4 text-center">
       <a href={offer.offer.link} target='blank'>
           <img
-            src={offer.model_image}
+            src={`${offer.model_image}?v=${offer.id}`}
             alt={offer.offer.name}
             width={200}
             style={{
